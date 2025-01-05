@@ -1,0 +1,7 @@
+crewai
+langchain
+tavily-python
+groq
+langchain-groq
+linkedin-api
+python-dotenv
